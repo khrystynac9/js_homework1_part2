@@ -15,3 +15,4 @@ function moneyExchange() {
     }
 }
 setTimeout(moneyExchange, 10000);
+alert("hello");
