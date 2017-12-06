@@ -14,5 +14,5 @@ function moneyExchange() {
         alert("Please enter the cerrect amount of euro or dollars")
     }
 }
-setTimeout(moneyExchange, 5000);
+setTimeout(moneyExchange, 3000);
 alert("hello");
