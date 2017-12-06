@@ -1,7 +1,7 @@
+var euroEmount = +prompt("Please enter the amount of euros", 100);
+var dollarEmount = +prompt("Please enter the amount of dollars", 100);
 function moneyExchange() {
     var euroSum, dollarSum, euro, dollar, ratio, ration2;
-    var euroEmount = +prompt("Please enter the amount of euros", 100);
-    var dollarEmount = +prompt("Please enter the amount of dollars", 100);
     euro = 32.18;
     dollar = 27.16;
     ration = euro / dollar;
